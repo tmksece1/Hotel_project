@@ -43,5 +43,6 @@ public class RunnerClass extends BaseClass {
 		new BookingConfirmation().confirmBooking();
 
 	}
+	@After Test
 
 }
