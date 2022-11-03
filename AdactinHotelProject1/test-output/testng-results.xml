@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-22T18:16:00 IST" name="Default suite" finished-at="2022-09-22T18:17:22 IST" duration-ms="81856">
+    <groups>
+    </groups>
+    <test started-at="2022-09-22T18:16:00 IST" name="Default test" finished-at="2022-09-22T18:17:22 IST" duration-ms="81856">
+      <class name="hotelProject.AdactinHotelProject1.RunnerClass">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:hotelProject.AdactinHotelProject1.RunnerClass@429bffaa]" started-at="2022-09-22T18:16:00 IST" name="launchURL" finished-at="2022-09-22T18:16:49 IST" duration-ms="48152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="loginEnter()[pri:1, instance:hotelProject.AdactinHotelProject1.RunnerClass@429bffaa]" started-at="2022-09-22T18:16:49 IST" name="loginEnter" finished-at="2022-09-22T18:16:51 IST" duration-ms="1912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEnter -->
+        <test-method signature="researchHotel()[pri:2, instance:hotelProject.AdactinHotelProject1.RunnerClass@429bffaa]" started-at="2022-09-22T18:16:51 IST" name="researchHotel" finished-at="2022-09-22T18:16:53 IST" duration-ms="1979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- researchHotel -->
+        <test-method signature="clickSearchHotel()[pri:3, instance:hotelProject.AdactinHotelProject1.RunnerClass@429bffaa]" started-at="2022-09-22T18:16:53 IST" name="clickSearchHotel" finished-at="2022-09-22T18:16:54 IST" duration-ms="996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSearchHotel -->
+        <test-method signature="bookNowHotel()[pri:4, instance:hotelProject.AdactinHotelProject1.RunnerClass@429bffaa]" started-at="2022-09-22T18:16:54 IST" name="bookNowHotel" finished-at="2022-09-22T18:16:55 IST" duration-ms="1329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookNowHotel -->
+        <test-method signature="clickBookingConfirm()[pri:5, instance:hotelProject.AdactinHotelProject1.RunnerClass@429bffaa]" started-at="2022-09-22T18:16:55 IST" name="clickBookingConfirm" finished-at="2022-09-22T18:17:22 IST" duration-ms="27374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBookingConfirm -->
+      </class> <!-- hotelProject.AdactinHotelProject1.RunnerClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
